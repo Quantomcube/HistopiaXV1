@@ -1,0 +1,17 @@
+{
+    "name": "uContext-Editor",
+    "references": [
+        "GUID:87843e9ac67c10143b744f1654861669"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
