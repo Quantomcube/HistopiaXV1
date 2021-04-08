@@ -112,18 +112,6 @@ MonoBehaviour:
     icon: 1
     iconSettings: _Help
   _sceneHistory:
-  - name: Demo
-    path: Assets/IgniteCoders/Simple Water Shader/Demo.unity
-  - name: Demo
-    path: Assets/NatureStarterKit2/Scene/Demo.unity
-  - name: example_scene
-    path: Assets/Rocks/example_scene.unity
-  - name: Demo Scene
-    path: Assets/Magical Rock/Demo Scene.unity
-  - name: Demo
-    path: Assets/GameObjectBrush/Demo.unity
-  - name: SampleScene
-    path: Assets/Scenes/SampleScene.unity
   - name: Testing
     path: Assets/Scenes/Testing.unity
   _upgradeID: 2
