@@ -112,6 +112,7 @@ MonoBehaviour:
     icon: 1
     iconSettings: _Help
   _sceneHistory:
+<<<<<<< HEAD
   - name: mountain creek demo
     path: Assets/laxer Assets/creek/mountain creek demo.unity
   - name: Demo_scene
@@ -134,6 +135,8 @@ MonoBehaviour:
     path: Assets/GameObjectBrush/Demo.unity
   - name: SampleScene
     path: Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> 6c891ff9d1758c094ae6a4f46a6c9cd28b0bc1f3
   - name: Testing
     path: Assets/Scenes/Testing.unity
   _upgradeID: 2
