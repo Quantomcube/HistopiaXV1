@@ -1,66 +1,12 @@
-Layer Selection: Default
+Layer Selection: Nothing
 Brush Max Size: 10
 Brush Size: 1.03
 Fill Mode: True
-Fill Rate: 0.25
+Fill Rate: 0.5
 
-Game Object: Assets/NatureStarterKit2/Nature/tree01.prefab
+Game Object: Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE/Prefabs/Pine01.prefab
 Layer: Default
-Toggle: False
-Slider: 1
-Lock Orientation Toggle: False
-Random Rotation Toggle: False
-Random Rotation X: False
-Random Rotation Y: False
-Random Rotation Z: False
-Random Scale Toggle: False
-Random Scale Min: 0.1
-Random Scale Max: 1
-Fixed Rotation Toggle: False
-Fixed Rotation X: 0
-Fixed Rotation Y: 0
-Fixed Rotation Z: 0
-Depth: 0
-
-Game Object: Assets/NatureStarterKit2/Nature/tree02.prefab
-Layer: Default
-Toggle: False
-Slider: 1
-Lock Orientation Toggle: False
-Random Rotation Toggle: False
-Random Rotation X: False
-Random Rotation Y: False
-Random Rotation Z: False
-Random Scale Toggle: False
-Random Scale Min: 0.1
-Random Scale Max: 1
-Fixed Rotation Toggle: False
-Fixed Rotation X: 0
-Fixed Rotation Y: 0
-Fixed Rotation Z: 0
-Depth: 0
-
-Game Object: Assets/NatureStarterKit2/Nature/tree03.prefab
-Layer: Default
-Toggle: False
-Slider: 1
-Lock Orientation Toggle: False
-Random Rotation Toggle: False
-Random Rotation X: False
-Random Rotation Y: False
-Random Rotation Z: False
-Random Scale Toggle: False
-Random Scale Min: 0.1
-Random Scale Max: 1
-Fixed Rotation Toggle: False
-Fixed Rotation X: 0
-Fixed Rotation Y: 0
-Fixed Rotation Z: 0
-Depth: 0
-
-Game Object: Assets/NatureStarterKit2/Nature/tree04.prefab
-Layer: Default
-Toggle: False
+Toggle: True
 Slider: 1
 Lock Orientation Toggle: False
 Random Rotation Toggle: False

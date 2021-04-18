@@ -112,6 +112,16 @@ MonoBehaviour:
     icon: 1
     iconSettings: _Help
   _sceneHistory:
+  - name: mountain creek demo
+    path: Assets/laxer Assets/creek/mountain creek demo.unity
+  - name: Demo_scene
+    path: Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE/DEMO/Demo_scene.unity
+  - name: Sample scene
+    path: Assets/Mountain Terrain/Sample scene.unity
+  - name: Water Surface
+    path: Assets/#NVJOB Simple Water Shaders/Example Scenes/Scenes/Water Surface.unity
+  - name: Water Specular
+    path: Assets/#NVJOB Simple Water Shaders/Example Scenes/Scenes/Water Specular.unity
   - name: Demo
     path: Assets/IgniteCoders/Simple Water Shader/Demo.unity
   - name: Demo
