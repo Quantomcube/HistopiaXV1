@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c660bcedff739744aab2c0d10bbdcbb7, type: 3}
+  m_Name: References
+  m_EditorClassIdentifier: 
+  _bookmarks: []
+  _favoriteWindows: []
+  _quickAccessItems:
+  - expanded: 0
+    settings:
+    - File/Save
+    intSettings: 
+    tooltip: Save
+    type: 1
+    visibleRules: 0
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Save.png
+  - expanded: 0
+    settings:
+    - UnityEditor.SceneHierarchyWindow, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    intSettings: 
+    tooltip: Hierarchy
+    type: 0
+    visibleRules: 1
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Hierarchy2.png
+  - expanded: 0
+    settings:
+    - UnityEditor.ProjectBrowser, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    intSettings: 
+    tooltip: Project
+    type: 0
+    visibleRules: 1
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Project.png
+  - expanded: 0
+    settings:
+    - UnityEditor.InspectorWindow, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    intSettings: 
+    tooltip: Inspector
+    type: 0
+    visibleRules: 1
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Inspector.png
+  - expanded: 0
+    settings:
+    - InfinityCode.uContext.Windows.Bookmarks, uContext-Editor, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    intSettings: 
+    tooltip: Bookmarks
+    type: 0
+    visibleRules: 0
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Star-White.png
+  - expanded: 0
+    settings:
+    - InfinityCode.uContext.Windows.ViewGallery, uContext-Editor, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    intSettings: 
+    tooltip: View Gallery
+    type: 0
+    visibleRules: 0
+    icon: 1
+    iconSettings: d_ViewToolOrbit
+  - expanded: 0
+    settings:
+    - InfinityCode.uContext.Windows.DistanceTool, uContext-Editor, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    intSettings: 
+    tooltip: Distance Tool
+    type: 0
+    visibleRules: 0
+    icon: 0
+    iconSettings: Assets\Plugins\Infinity Code\uContext/Icons/Rule.png
+  - expanded: 1
+    settings: []
+    intSettings: 
+    tooltip: 
+    type: 5
+    visibleRules: 0
+    icon: 1
+    iconSettings: 
+  - expanded: 0
+    settings:
+    - Project/uContext/Quick Access Bar
+    intSettings: 
+    tooltip: Edit Items
+    type: 6
+    visibleRules: 0
+    icon: 1
+    iconSettings: d_Settings
+  - expanded: 0
+    settings:
+    - InfinityCode.uContext.Windows.Welcome, uContext-Editor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    intSettings: 
+    tooltip: Info
+    type: 0
+    visibleRules: 0
+    icon: 1
+    iconSettings: _Help
+  _sceneHistory:
+  - name: mountain creek demo
+    path: Assets/laxer Assets/creek/mountain creek demo.unity
+  - name: Demo_scene
+    path: Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE/DEMO/Demo_scene.unity
+  - name: Sample scene
+    path: Assets/Mountain Terrain/Sample scene.unity
+  - name: Water Surface
+    path: Assets/#NVJOB Simple Water Shaders/Example Scenes/Scenes/Water Surface.unity
+  - name: Water Specular
+    path: Assets/#NVJOB Simple Water Shaders/Example Scenes/Scenes/Water Specular.unity
+  - name: Demo
+    path: Assets/IgniteCoders/Simple Water Shader/Demo.unity
+  - name: Demo
+    path: Assets/NatureStarterKit2/Scene/Demo.unity
+  - name: example_scene
+    path: Assets/Rocks/example_scene.unity
+  - name: Demo Scene
+    path: Assets/Magical Rock/Demo Scene.unity
+  - name: Demo
+    path: Assets/GameObjectBrush/Demo.unity
+  - name: SampleScene
+    path: Assets/Scenes/SampleScene.unity
+  - name: Testing
+    path: Assets/Scenes/Testing.unity
+  _upgradeID: 2
