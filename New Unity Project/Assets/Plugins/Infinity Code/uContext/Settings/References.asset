@@ -112,6 +112,8 @@ MonoBehaviour:
     icon: 1
     iconSettings: _Help
   _sceneHistory:
+  - name: Testing
+    path: Assets/Scenes/Testing.unity
   - name: Demo_scene
     path: Assets/SkythianCat/Hand_Painted_Nature_Kit_LITE/DEMO/Demo_scene.unity
   _upgradeID: 2
